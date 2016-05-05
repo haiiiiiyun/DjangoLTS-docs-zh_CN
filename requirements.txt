@@ -1,0 +1,4 @@
+sphinx>=1.4.1
+sphinx_intl>=0.9.9
+urllib3>=1.15.1
+transifex_client>=0.11
