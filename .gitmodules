@@ -1,3 +1,3 @@
-[submodule "django"]
-	path = django
-	url = git://github.com/django/django.git
+[submodule "django-lts"]
+	path = django-lts
+	url = git@github.com:django/django.git
