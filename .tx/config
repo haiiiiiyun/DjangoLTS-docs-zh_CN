@@ -1,67 +1,67 @@
 [main]
 host = https://www.transifex.com
 
-[djangolts-docs-zh_cn.contents]
+[djangolts-docs.contents]
 file_filter = docs/locale/<lang>/LC_MESSAGES/contents.po
 source_file = docs/_build/locale/contents.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.faq]
+[djangolts-docs.faq]
 file_filter = docs/locale/<lang>/LC_MESSAGES/faq.po
 source_file = docs/_build/locale/faq.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.the_glossary]
+[djangolts-docs.the_glossary]
 file_filter = docs/locale/<lang>/LC_MESSAGES/glossary.po
 source_file = docs/_build/locale/glossary.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.howto]
+[djangolts-docs.howto]
 file_filter = docs/locale/<lang>/LC_MESSAGES/howto.po
 source_file = docs/_build/locale/howto.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.index]
+[djangolts-docs.index]
 file_filter = docs/locale/<lang>/LC_MESSAGES/index.po
 source_file = docs/_build/locale/index.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.internals]
+[djangolts-docs.internals]
 file_filter = docs/locale/<lang>/LC_MESSAGES/internals.po
 source_file = docs/_build/locale/internals.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.intro]
+[djangolts-docs.intro]
 file_filter = docs/locale/<lang>/LC_MESSAGES/intro.po
 source_file = docs/_build/locale/intro.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.misc]
+[djangolts-docs.misc]
 file_filter = docs/locale/<lang>/LC_MESSAGES/misc.po
 source_file = docs/_build/locale/misc.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.reference]
+[djangolts-docs.reference]
 file_filter = docs/locale/<lang>/LC_MESSAGES/ref.po
 source_file = docs/_build/locale/ref.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.releases]
+[djangolts-docs.releases]
 file_filter = docs/locale/<lang>/LC_MESSAGES/releases.po
 source_file = docs/_build/locale/releases.pot
 source_lang = en
 type = PO
 
-[djangolts-docs-zh_cn.topics]
+[djangolts-docs.topics]
 file_filter = docs/locale/<lang>/LC_MESSAGES/topics.po
 source_file = docs/_build/locale/topics.pot
 source_lang = en
