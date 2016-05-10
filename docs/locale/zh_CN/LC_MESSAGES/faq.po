@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the Django package.
 # 
 # Translators:
+# Jiang Haiyun <jiang.haiyun@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: DjangoLTS-docs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-05 16:46+0800\n"
-"PO-Revision-Date: 2016-05-10 06:35+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 07:33+0000\n"
+"Last-Translator: Jiang Haiyun <jiang.haiyun@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/djangolts-docs/djangolts-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -365,7 +366,7 @@ msgstr ""
 
 #: ../../faq/general.txt:5
 msgid "Why does this project exist?"
-msgstr ""
+msgstr "为什么有这个项目？"
 
 #: ../../faq/general.txt:7
 msgid ""
@@ -403,7 +404,7 @@ msgstr ""
 
 #: ../../faq/general.txt:32
 msgid "What does \"Django\" mean, and how do you pronounce it?"
-msgstr ""
+msgstr "“Django”是什么意思，它是如何发音的？"
 
 #: ../../faq/general.txt:34
 msgid ""
@@ -414,7 +415,7 @@ msgstr ""
 
 #: ../../faq/general.txt:37
 msgid "Listen to his music. You'll like it."
-msgstr ""
+msgstr "听听他的音乐。你会欢迎的。"
 
 #: ../../faq/general.txt:39
 msgid ""
@@ -427,7 +428,7 @@ msgstr ""
 
 #: ../../faq/general.txt:47
 msgid "Is Django stable?"
-msgstr ""
+msgstr "Django运行稳定吗？"
 
 #: ../../faq/general.txt:49
 msgid ""
@@ -438,7 +439,7 @@ msgstr ""
 
 #: ../../faq/general.txt:54
 msgid "Does Django scale?"
-msgstr ""
+msgstr "Django可扩展吗？"
 
 #: ../../faq/general.txt:56
 msgid ""
@@ -473,7 +474,7 @@ msgstr ""
 
 #: ../../faq/general.txt:74
 msgid "Which sites use Django?"
-msgstr ""
+msgstr "哪些网站使用Django？"
 
 #: ../../faq/general.txt:76
 msgid ""
@@ -597,7 +598,7 @@ msgstr ""
 
 #: ../../faq/general.txt:148
 msgid "Is Django a content-management-system (CMS)?"
-msgstr ""
+msgstr "Django是内容管理系统（CMS）吗"
 
 #: ../../faq/general.txt:150
 msgid ""
@@ -623,7 +624,7 @@ msgstr ""
 
 #: ../../faq/general.txt:165
 msgid "How can I download the Django documentation to read it offline?"
-msgstr ""
+msgstr "我如何才能下载到Django文档以便离线阅读？"
 
 #: ../../faq/general.txt:167
 msgid ""
@@ -648,7 +649,7 @@ msgstr ""
 
 #: ../../faq/general.txt:181
 msgid "Where can I find Django developers for hire?"
-msgstr ""
+msgstr "我能在哪里找到能雇佣的Django开发者？"
 
 #: ../../faq/general.txt:183
 msgid ""
@@ -732,7 +733,7 @@ msgstr ""
 
 #: ../../faq/help.txt:19
 msgid "Why hasn't my message appeared on django-users?"
-msgstr ""
+msgstr "为什么我发的消息还没有在django-users上出现？"
 
 #: ../../faq/help.txt:21
 msgid ""
@@ -753,7 +754,7 @@ msgstr ""
 
 #: ../../faq/help.txt:33
 msgid "Nobody on django-users answered my question! What should I do?"
-msgstr ""
+msgstr "django-users上没人回答我的问题！我该怎么办？"
 
 #: ../../faq/help.txt:35
 msgid ""
@@ -781,7 +782,7 @@ msgstr ""
 
 #: ../../faq/help.txt:51
 msgid "I think I've found a bug! What should I do?"
-msgstr ""
+msgstr "我想我找到了一个bug！我要怎么做？"
 
 #: ../../faq/help.txt:53
 msgid ""
@@ -813,7 +814,7 @@ msgstr ""
 
 #: ../../faq/index.txt:3
 msgid "Django FAQ"
-msgstr ""
+msgstr "Django FAQ"
 
 #: ../../faq/install.txt:2
 msgid "FAQ: Installation"
@@ -877,11 +878,11 @@ msgstr ""
 
 #: ../../faq/install.txt:46
 msgid "Django version"
-msgstr ""
+msgstr "Django 版本"
 
 #: ../../faq/install.txt:46
 msgid "Python versions"
-msgstr ""
+msgstr "Python 版本"
 
 #: ../../faq/install.txt:48
 msgid "1.7"
@@ -959,7 +960,7 @@ msgstr ""
 
 #: ../../faq/install.txt:85
 msgid "Should I use the stable version or development version?"
-msgstr ""
+msgstr "我该用 稳定 版本 还是 开发 版本？"
 
 #: ../../faq/install.txt:87
 msgid ""
@@ -977,7 +978,7 @@ msgstr ""
 
 #: ../../faq/models.txt:7
 msgid "How can I see the raw SQL queries Django is running?"
-msgstr ""
+msgstr "我 如何 才能 看到 Django 正在运行的 原始 SQL 查询 语句？"
 
 #: ../../faq/models.txt:9
 msgid ""
