@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DjangoLTS-docs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-05 16:46+0800\n"
-"PO-Revision-Date: 2016-05-10 07:17+0000\n"
+"PO-Revision-Date: 2016-05-10 08:18+0000\n"
 "Last-Translator: Jiang Haiyun <jiang.haiyun@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/djangolts-docs/djangolts-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../index.txt:6
 msgid "Django documentation"
-msgstr "Django 文档"
+msgstr "Django文档"
 
 #: ../../index.txt:9
 msgid "Everything you need to know about Django."
@@ -28,22 +28,22 @@ msgstr "关于Django你需了解的所有知识。"
 
 #: ../../index.txt:11
 msgid "Getting help"
-msgstr "取得 帮助"
+msgstr "取得帮助"
 
 #: ../../index.txt:13
 msgid "Having trouble? We'd like to help!"
-msgstr "遇到 问题 了吗？我们 想 帮助 你！"
+msgstr "遇到问题了吗？我们想帮助你！"
 
 #: ../../index.txt:15
 msgid ""
 "Try the :doc:`FAQ <faq/index>` -- it's got answers to many common questions."
-msgstr "试着到 :doc:`FAQ <faq/index>`  找找， 那里有许多常见问题的解答。"
+msgstr "试着到 :doc:`FAQ <faq/index>`  找找，那里有许多常见问题的解答。"
 
 #: ../../index.txt:17
 msgid ""
 "Looking for specific information? Try the :ref:`genindex`, :ref:`modindex` "
 "or the :doc:`detailed table of contents <contents>`."
-msgstr "要找特定信息吗？ 到 :ref:`genindex`，:ref:`modindex` 或者 :doc:`详细目录表 <contents>`中找找。"
+msgstr "要找特定信息吗？到 :ref:`genindex` ， :ref:`modindex`  或者  :doc:`详细目录表 <contents>` 中找找。"
 
 #: ../../index.txt:20
 msgid ""
@@ -149,7 +149,7 @@ msgstr ""
 
 #: ../../index.txt:102
 msgid "The view layer"
-msgstr ""
+msgstr "视图层"
 
 #: ../../index.txt:104
 msgid ""
@@ -204,7 +204,7 @@ msgstr ""
 
 #: ../../index.txt:143
 msgid "The template layer"
-msgstr ""
+msgstr "模板层"
 
 #: ../../index.txt:145
 msgid ""

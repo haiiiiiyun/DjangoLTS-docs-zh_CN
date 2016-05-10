@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DjangoLTS-docs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-05 16:46+0800\n"
-"PO-Revision-Date: 2016-05-10 07:33+0000\n"
+"PO-Revision-Date: 2016-05-10 08:12+0000\n"
 "Last-Translator: Jiang Haiyun <jiang.haiyun@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/djangolts-docs/djangolts-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../faq/admin.txt:2
 msgid "FAQ: The admin"
-msgstr ""
+msgstr "FAQ：后台管理"
 
 #: ../../faq/admin.txt:5
 msgid ""
