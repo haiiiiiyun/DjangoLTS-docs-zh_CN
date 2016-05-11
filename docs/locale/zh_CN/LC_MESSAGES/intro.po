@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the Django package.
 # 
 # Translators:
+# Jiang Haiyun <jiang.haiyun@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: DjangoLTS-docs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-05 16:46+0800\n"
-"PO-Revision-Date: 2016-05-10 06:37+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-11 02:35+0000\n"
+"Last-Translator: Jiang Haiyun <jiang.haiyun@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/djangolts-docs/djangolts-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,7 +70,7 @@ msgstr ""
 
 #: ../../intro/contributing.txt:34 ../../intro/tutorial01.txt:35
 msgid "Where to get help:"
-msgstr ""
+msgstr "到哪里获取帮助："
 
 #: ../../intro/contributing.txt:36
 msgid ""
@@ -1451,42 +1452,42 @@ msgstr ""
 
 #: ../../intro/tutorial01.txt:3
 msgid "Writing your first Django app, part 1"
-msgstr ""
+msgstr "编写你的第一个Django应用，第 1 部分"
 
 #: ../../intro/tutorial01.txt:5
 msgid "Let's learn by example."
-msgstr ""
+msgstr "我们以一个例子开始学习"
 
 #: ../../intro/tutorial01.txt:7
 msgid ""
 "Throughout this tutorial, we'll walk you through the creation of a basic "
 "poll application."
-msgstr ""
+msgstr "在本教程中，我们将带领你创建一个简单的民意调查应用系统。"
 
 #: ../../intro/tutorial01.txt:10
 msgid "It'll consist of two parts:"
-msgstr ""
+msgstr "它由两部分组成："
 
 #: ../../intro/tutorial01.txt:12
 msgid "A public site that lets people view polls and vote in them."
-msgstr ""
+msgstr "一个能让公众查看调查结果和进行投票的公共网站。"
 
 #: ../../intro/tutorial01.txt:13
 msgid "An admin site that lets you add, change and delete polls."
-msgstr ""
+msgstr "一个能让你添加，修改和删除调查记录的系统管理网站。"
 
 #: ../../intro/tutorial01.txt:15
 msgid ""
 "We'll assume you have :doc:`Django installed </intro/install>` already. You "
 "can tell Django is installed and which version by running the following "
 "command:"
-msgstr ""
+msgstr "我们假定你已经 :doc:`安装了 Django </intro/install>`  。 通过运行下面的命令你能得知Django是否已安装及版本号："
 
 #: ../../intro/tutorial01.txt:22
 msgid ""
 "If Django is installed, you should see the version of your installation. If "
 "it isn't, you'll get an error telling \"No module named django\"."
-msgstr ""
+msgstr "如果已经安装了Django，你应该能看到版本号。如果没有，会出现错误 \"No module named django\" 。"
 
 #: ../../intro/tutorial01.txt:25
 msgid ""
@@ -1496,13 +1497,13 @@ msgid ""
 "of this page, or update Django to the newest version. If you are still using"
 " Python 2.7, you will need to adjust the code samples slightly, as described"
 " in comments."
-msgstr ""
+msgstr "本教程是为 Django |version| 和 Python 3.2 以及上版本写的。如果Django版本不匹配，你可以通过本页面右下角的版本切换器来切换到你的Django版本，或者更新到最新的Django。如果还在用Python 2.7,如备注中说明的，你还需稍微调整下例子代码。"
 
 #: ../../intro/tutorial01.txt:32
 msgid ""
 "See :doc:`How to install Django </topics/install>` for advice on how to "
 "remove older versions of Django and install a newer one."
-msgstr ""
+msgstr "查看 :doc:`如果安装 Django </topics/install>`  获取关于如果删除旧版 Django 及安装新版本的指导。"
 
 #: ../../intro/tutorial01.txt:37
 msgid ""
@@ -1510,11 +1511,11 @@ msgid ""
 "to |django-users| or drop by `#django on irc.freenode.net "
 "<irc://irc.freenode.net/django>`_ to chat with other Django users who might "
 "be able to help."
-msgstr ""
+msgstr "如果你在读本教程的过程中遇到问题，请发送消息到 |django-users| 上，或者到 `#django on irc.freenode.net <irc://irc.freenode.net/django>`_  上找Django用户交流，他们可能会帮助你。"
 
 #: ../../intro/tutorial01.txt:43
 msgid "Creating a project"
-msgstr ""
+msgstr "创建一个工程"
 
 #: ../../intro/tutorial01.txt:45
 msgid ""
@@ -1523,19 +1524,19 @@ msgid ""
 "establishes a Django :term:`project` -- a collection of settings for an "
 "instance of Django, including database configuration, Django-specific "
 "options and application-specific settings."
-msgstr ""
+msgstr "如果这是你首次使用 Django，你需要留意一些初始化设置。即，你将需要自动生成一些代码以便建立一个Django :term:`工程` -- 一个 Django 应用实例的相关一整套配置信息，包含数据库配置，Django相关的配置选项和应用系统相关的设置项。"
 
 #: ../../intro/tutorial01.txt:51
 msgid ""
 "From the command line, ``cd`` into a directory where you'd like to store "
 "your code, then run the following command:"
-msgstr ""
+msgstr "在命令行上， ``cd`` 到你想存放代码的目录，然后运行下面的命令："
 
 #: ../../intro/tutorial01.txt:58
 msgid ""
 "This will create a ``mysite`` directory in your current directory. If it "
 "didn't work, see :ref:`troubleshooting-django-admin`."
-msgstr ""
+msgstr "这将在你当前目录下创建一个 ``mysite`` 目录。如果出错，请参考  :ref:`troubleshooting-django-admin` 。"
 
 #: ../../intro/tutorial01.txt:63
 msgid ""
@@ -1543,7 +1544,7 @@ msgid ""
 "components. In particular, this means you should avoid using names like "
 "``django`` (which will conflict with Django itself) or ``test`` (which "
 "conflicts with a built-in Python package)."
-msgstr ""
+msgstr "你需避免以 Python 或 Djanog 内置的组件名来命名工程。尤其是，它意味着你应避免使用像 ``django`` (与 Django 本身冲突) 或  ``test`` (与Python内置包冲突)这样的名字。"
 
 #: ../../intro/tutorial01.txt:68
 msgid "Where should this code live?"
